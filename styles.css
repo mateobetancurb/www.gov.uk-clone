@@ -70,10 +70,16 @@ body {
 	position: relative;
 }
 .section1__container2 img {
-	width: 30px;
+	width: 25px;
 	position: absolute;
-	top: 63px;
+	top: 65px;
 	left: 227px;
 }
 /* section1 */
 /* main */
+/* section2 */
+.section2 {
+	max-width: 60vw;
+	margin: 0 auto;
+}
+/* section2 */
