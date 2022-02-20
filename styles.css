@@ -82,4 +82,20 @@ body {
 	max-width: 60vw;
 	margin: 0 auto;
 }
+.section2__h2 {
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+.section2__container--cards a {
+	font-size: 1.1rem;
+	margin-bottom: 5px;
+}
+.section2__container--cards a:hover {
+	color: #0f4474;
+}
+.section2__container--cards p {
+	margin-bottom: 30px;
+}
+
 /* section2 */
